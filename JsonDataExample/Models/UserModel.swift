@@ -7,6 +7,7 @@
 
 import Foundation
 
+// MARK: - UserModel
 struct UserModel: Codable {
     var firstName: String?
     var address: Address?
